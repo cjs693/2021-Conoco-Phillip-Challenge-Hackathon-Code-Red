@@ -1,0 +1,76 @@
+[
+        {
+            "Month": "01",
+            "Number": 5,
+            "Minor": 2,
+            "Serious": 2,
+            "Deadly" : 1
+        },
+        {
+            "Month": "02",
+            "Number": 3,
+            "Minor": 0,
+            "Serious": 2,
+            "Deadly" : 1
+        },{
+            "Month": "03",
+            "Number": 7,
+            "Minor": 4,
+            "Serious": 2,
+            "Deadly" : 1
+        },{
+            "Month": "04",
+            "Number": 8,
+            "Minor": 5,
+            "Serious": 2,
+            "Deadly" : 1
+        },{
+            "Month": "05",
+            "Number": 9,
+            "Minor": 6,
+            "Serious": 2,
+            "Deadly" : 1
+        },{
+            "Month": "06",
+            "Number": 4,
+            "Minor": 2,
+            "Serious": 1,
+            "Deadly" : 1
+        },{
+            "Month": "07",
+            "Number": 3,
+            "Minor": 1,
+            "Serious": 1,
+            "Deadly" : 1
+        },{
+            "Month": "08",
+            "Number": 3,
+            "Minor": 2,
+            "Serious": 1,
+            "Deadly" : 0
+        },{
+            "Month": "09",
+            "Number": 17,
+            "Minor": 13,
+            "Serious": 3,
+            "Deadly" : 1
+        },{
+            "Month": "10",
+            "Number": 8,
+            "Minor": 5,
+            "Serious": 2,
+            "Deadly" : 1
+        },{
+            "Month": "11",
+            "Number": 13,
+            "Minor": 9,
+            "Serious": 3,
+            "Deadly" : 1
+        },   {
+            "Month": "12",
+            "Number": 5,
+            "Minor": 10,
+            "Serious": 1,
+            "Deadly" : 1
+        }
+        ]
